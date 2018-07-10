@@ -1,3 +1,44 @@
-body{
-    background-color: black
+
+#main{
+    background-color: #fff4ef;
+    margin: 5px auto;
+    border-radius: 20px;
+    padding: 30px;
+    padding-top: 0;
+}
+#title{
+    text-align: center;
+    margin-top: 35px;
+    margin-bottom: 0;
+    letter-spacing: 5px;
+    font-family: 'Knewave', cursive;
+    font-weight: 200;
+}
+#img-div{
+    width: 100%;
+    /*background-color: black;*/
+    margin-top: 0;
+    margin-bottom: 0;
+}
+img{
+    width: 250px;
+    height: 250px;
+    margin: 0 auto;
+    display: block;
+    margin-bottom: 0;
+}
+#img-caption{
+    width: 250px;
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 0;
+}
+#headline{
+    width: fit-content;
+    background-color: #69a2b0;
+    margin: 0 auto;
+}
+#tribute-info{
+    padding: 20px;
+    font-size: 20px;
 }
